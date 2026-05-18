@@ -9,6 +9,7 @@ Be sure to visit the [original repository](https://github.com/omriharel/deej)
  - Upload the Arduino code to your board (be sure to change the pin definitions).
  - Download the `deej-release.exe` file and `config.yaml` from the [release section](https://github.com/Miodec/deej/releases/tag/compile) (`deej-dev` will show a debug console window when launched)
  - If you run into any issues, feel free to ask in the [Deej Discord Server](https://discord.gg/nf88NJu)
+ - Linux users have to build this by running "git clone https://github.com/Miodec/deej", "cd deej" and "./pkg/deej/scripts/build-release.sh" the executable will be in the deej folder named deej-release (all commands should be ran without quotes).
 
 # Case files
 
