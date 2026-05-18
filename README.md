@@ -1,6 +1,6 @@
 # In this fork
 
-This fork of deej adds remappable button support. Buttons must be defined in config with int values. The key values can be found here: https://github.com/micmonay/keybd_event/blob/master/keybd_windows.go (make sure to convert hex values to int)
+This fork of deej adds remappable button support. Buttons must be defined in config with int values. The key values can be found here: https://github.com/micmonay/keybd_event/blob/master/keybd_windows.go (make sure to convert hex values to int) for windows and https://github.com/micmonay/keybd_event/blob/master/keybd_linux.go for linux (values are already int)
 
 Be sure to visit the [original repository](https://github.com/omriharel/deej)
 
